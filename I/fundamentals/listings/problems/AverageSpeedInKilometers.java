@@ -1,3 +1,4 @@
+package I.fundamentals.listings.problems;
 public class AverageSpeedInKilometers {
 
     public static void main(String[] args) {

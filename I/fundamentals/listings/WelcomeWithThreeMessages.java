@@ -1,3 +1,4 @@
+package I.fundamentals.listings;
 public class WelcomeWithThreeMessages {
 
     public static void main(String[] args) {

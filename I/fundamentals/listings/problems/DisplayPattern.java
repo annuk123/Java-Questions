@@ -1,3 +1,4 @@
+package I.fundamentals.listings.problems;
 public class DisplayPattern {
     public static void main(String[] args) {
         // JAVA pattern

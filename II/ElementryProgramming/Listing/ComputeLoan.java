@@ -29,3 +29,4 @@ public class ComputeLoan {
         System.out.println("The total payment is $" + (int)(totalPayment * 100) / 100.0);
     }
 }
+
