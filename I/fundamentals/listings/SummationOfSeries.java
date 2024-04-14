@@ -1,4 +1,3 @@
-package I.fundamentals.listings.problems;
 public class SummationOfSeries {
 
     public static void main(String[] args) {
