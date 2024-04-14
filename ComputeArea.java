@@ -9,6 +9,6 @@ public class ComputeArea {
         //Compute area
         double area = radius * radius * 3.1415;
         //Display results
-        System.out.println("The area of the circle of radius " + "is " + area);
+        System.out.println("The area of the circle of radius " + radius + "is " + area);
     }
 }
