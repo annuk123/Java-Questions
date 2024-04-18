@@ -20,4 +20,4 @@
 
 [3.9 ChineseZodiac.java](ChineseZodiac.java): Simple program to find Chinese Zodiac
 
-### These projects are numbered you may skip or follow the order
+### These projects are numbered you may skip or follow the order.
