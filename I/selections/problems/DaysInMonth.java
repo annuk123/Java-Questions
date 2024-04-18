@@ -80,7 +80,8 @@ public class DaysInMonth {
                 break;
         }
 
-        // display the number of days in the entered month, day, and year
+        // display the number of days in 
+        // the entered month, day, and year
         if (days_in_month != -1) {
             System.out.println(day + ", " + year + " had " + days_in_month + " days.");
         }
