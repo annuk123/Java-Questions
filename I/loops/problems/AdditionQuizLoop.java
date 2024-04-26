@@ -29,7 +29,7 @@ public class AdditionQuizLoop {
                         + " + " + number2 + " should be " + (number1 + number2));
             }
 
-            // Increase the question count
+            // increase the question count
             count++;
 
             // Append the question and answer to the output string
